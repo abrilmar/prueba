@@ -8,4 +8,10 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 Esto no me gusto Abril, ponte abusada
 
+<<<<<<< HEAD
 Esto es otro cambio de Jacque, a ver si hacemos Merge
+=======
+
+ugjhfhfhgcfgdgdgdgg
+
+>>>>>>> 609b5fbf0a194d39b093b0566a365094ea837500
